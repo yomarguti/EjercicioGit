@@ -5,4 +5,6 @@ Comienzo del proyecto de responsive design{
   Loop For ever
 }
 
+
 X = 10;
+
