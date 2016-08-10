@@ -4,3 +4,5 @@ Esto es para poder hacer un fetch... Prueba
 Comienzo del proyecto de responsive design{
   Loop For ever
 }
+
+X = 2;
